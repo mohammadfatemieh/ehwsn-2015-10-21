@@ -16,3 +16,7 @@ Stream URL:
 https://data.sparkfun.com/streams/8dxAKN9l8JUKJlZrpQg6
 
 
+Plots
+Webpages have been copied to the Dropbox sites folder, appended with 2015-10-22
+Node 1: https://dl.dropboxusercontent.com/u/89767804/site/sensor_node_plot-1_2015-10-22.html
+

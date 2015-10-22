@@ -123,7 +123,7 @@ unsigned char msg_status = 0;
 // RH - units of 0.01%
 #define RH_DIFF_MAX		500
 #define RH_UPPER 		7000
-#define RH_LOWER 		3500
+#define RH_LOWER 		3000
 
 // P - unit of 0.01 mbar
 #define P_DIFF_MAX		25
@@ -817,7 +817,7 @@ void linkTo(void)
 		  else
 		  {
 				int i;
-			    for (i=0 ; i <10  ; i++)
+			    for (i=0 ; i <20  ; i++)
 				{
 					   delay(sec30);                  // enter sleep mode between measurements
 			//	   delay(sec10);                  // enter sleep mode between measurements
