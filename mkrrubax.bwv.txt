@@ -1,0 +1,265 @@
+﻿CCS folder added
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is ahead of 'origin/master' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	new file:   PC/CCS/.metadata/.lock
+#	new file:   PC/CCS/.metadata/.plugins/com.ti.ccstudio.builddefinitions.generator/6.0.0/MSP430.xml
+#	new file:   PC/CCS/.metadata/.plugins/com.ti.ccstudio.builddefinitions.generator/6.0.0/MSP430_4.1.xml
+#	new file:   PC/CCS/.metadata/.plugins/com.ti.ccstudio.builddefinitions.generator/6.0.0/MSP430_4.3.xml
+#	new file:   PC/CCS/.metadata/.plugins/com.ti.ccstudio.builddefinitions.generator/6.0.0/PRU.xml
+#	new file:   PC/CCS/.metadata/.plugins/com.ti.ccstudio.builddefinitions.generator/native/MSP430_4.3.3.xml
+#	new file:   PC/CCS/.metadata/.plugins/com.ti.ccstudio.builddefinitions.generator/native/MSP430_4.3.5.xml
+#	new file:   PC/CCS/.metadata/.plugins/com.ti.ccstudio.builddefinitions.generator/native/hex/MSP430_4.3.3.txt
+#	new file:   PC/CCS/.metadata/.plugins/com.ti.ccstudio.builddefinitions.generator/native/hex/MSP430_4.3.5.txt
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.cdt.core/SEH Sensor Monitor.1445527317537.pdom
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.cdt.make.core/specs.c
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.cdt.make.core/specs.cpp
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.history/0/d0115ea3d0780015145983087043dc4a
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.history/16/d0be56a3d0780015145983087043dc4a
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.history/25/70a633a3d0780015145983087043dc4a
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.history/3a/e05659a3d0780015145983087043dc4a
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.history/3b/4061a8a3d0780015145983087043dc4a
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.history/3c/503c8ba3d0780015145983087043dc4a
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.history/4f/305f8da3d0780015145983087043dc4a
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.history/57/806eaba3d0780015145983087043dc4a
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.history/5f/f0f545a3d0780015145983087043dc4a
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.history/62/5017a6a3d0780015145983087043dc4a
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.history/63/b0f869a3d0780015145983087043dc4a
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.history/6e/50fe41a3d0780015145983087043dc4a
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.history/72/a05293a3d0780015145983087043dc4a
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.history/75/a080b5a3d0780015145983087043dc4a
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.history/78/504cb2a3d0780015145983087043dc4a
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.history/86/b00d28a3d0780015145983087043dc4a
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.history/8b/804089a3d0780015145983087043dc4a
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.history/92/60c466a3d0780015145983087043dc4a
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.history/9a/7029b0a3d0780015145983087043dc4a
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.history/9f/00909ba3d0780015145983087043dc4a
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.history/ab/b08e51a3d0780015145983087043dc4a
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.history/be/60bb29a3d0780015145983087043dc4a
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.history/c0/f0a491a3d0780015145983087043dc4a
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.history/cb/506696a0d0780015145983087043dc4a
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.history/cd/904e25a3d0780015145983087043dc4a
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.history/d8/b01d4fa3d0780015145983087043dc4a
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.history/e4/4043ada3d0780015145983087043dc4a
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.history/ef/d066b8a3d0780015145983087043dc4a
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.history/f/307b35a3d0780015145983087043dc4a
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.history/f3/e0c75ba3d0780015145983087043dc4a
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.history/ff/c0649da3d0780015145983087043dc4a
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.projects/RemoteSystemsTempFiles/.indexes/properties.index
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.projects/RemoteSystemsTempFiles/.markers.snap
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.projects/RemoteSystemsTempFiles/.syncinfo.snap
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.projects/RemoteSystemsTempFiles/org.eclipse.egit.core/GitProjectData.properties
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.projects/SEH Sensor Monitor/.indexes/21/properties.index
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.projects/SEH Sensor Monitor/.indexes/af/history.index
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.projects/SEH Sensor Monitor/.indexes/cc/21/history.index
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.projects/SEH Sensor Monitor/.indexes/cc/36/28/history.index
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.projects/SEH Sensor Monitor/.indexes/cc/36/3f/history.index
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.projects/SEH Sensor Monitor/.indexes/cc/36/ef/94/history.index
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.projects/SEH Sensor Monitor/.indexes/cc/36/ef/c2/history.index
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.projects/SEH Sensor Monitor/.indexes/cc/history.index
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.projects/SEH Sensor Monitor/.indexes/db/21/history.index
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.projects/SEH Sensor Monitor/.indexes/db/36/28/history.index
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.projects/SEH Sensor Monitor/.indexes/db/36/3f/history.index
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.projects/SEH Sensor Monitor/.indexes/db/36/ef/94/history.index
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.projects/SEH Sensor Monitor/.indexes/db/36/ef/c2/history.index
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.projects/SEH Sensor Monitor/.indexes/db/history.index
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.projects/SEH Sensor Monitor/.indexes/properties.index
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.projects/SEH Sensor Monitor/.markers.snap
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.projects/SEH Sensor Monitor/.syncinfo.snap
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.projects/SEH Sensor Monitor/com.ti.ccstudio.project.core/End Device
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.projects/SEH Sensor Monitor/com.ti.ccstudio.project.core/End Device - Debug/advice.xml
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.projects/SEH Sensor Monitor/com.ti.ccstudio.project.core/End Device - Debug/benchmarks.xml
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.projects/SEH Sensor Monitor/com.ti.ccstudio.project.core/End Device - Debug/linkerFlags.txt
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.projects/SEH Sensor Monitor/org.eclipse.egit.core/GitProjectData.properties
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.snap
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.ti.ccstudio.system.setup.prefs
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.cdt.core.prefs
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.cdt.core.prj-SEH Sensor Monitor.prefs
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.cdt.debug.core.prefs
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.cdt.managedbuilder.core.prefs
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.core.prefs
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.core.prefs
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.rse.core.prefs
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.rse.ui.prefs
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.rse.core/initializerMarks/org.eclipse.rse.internal.core.RSELocalConnectionInitializer.mark
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.minint-957v0or_16139/FP.local.files_0/node.properties
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.minint-957v0or_16139/H.local_16/node.properties
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.minint-957v0or_16139/node.properties
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.rtsc.xdctools.model/XDCModel.log.lck
+#	new file:   PC/CCS/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml
+#	new file:   PC/CCS/.metadata/version.ini
+#	new file:   PC/CCS/RemoteSystemsTempFiles/.project
+#	new file:   PC/CCS/SEH Sensor Monitor/.ccsproject
+#	new file:   PC/CCS/SEH Sensor Monitor/.cdtbuild
+#	new file:   PC/CCS/SEH Sensor Monitor/.cdtbuild_initial
+#	new file:   PC/CCS/SEH Sensor Monitor/.cdtproject
+#	new file:   PC/CCS/SEH Sensor Monitor/.cproject
+#	new file:   PC/CCS/SEH Sensor Monitor/.launches/SEH Sensor Monitor.launch
+#	new file:   PC/CCS/SEH Sensor Monitor/.project
+#	new file:   PC/CCS/SEH Sensor Monitor/.project_initial
+#	new file:   PC/CCS/SEH Sensor Monitor/.settings/org.eclipse.cdt.codan.core.prefs
+#	new file:   PC/CCS/SEH Sensor Monitor/.settings/org.eclipse.cdt.debug.core.prefs
+#	new file:   PC/CCS/SEH Sensor Monitor/.settings/org.eclipse.core.resources.prefs
+#	new file:   PC/CCS/SEH Sensor Monitor/Access Point - Debug/APasdatahub_linkInfo.xml
+#	new file:   PC/CCS/SEH Sensor Monitor/Access Point - Debug/Components/bsp/bsp.pp
+#	new file:   PC/CCS/SEH Sensor Monitor/Access Point - Debug/Components/bsp/subdir_rules.mk
+#	new file:   PC/CCS/SEH Sensor Monitor/Access Point - Debug/Components/bsp/subdir_vars.mk
+#	new file:   PC/CCS/SEH Sensor Monitor/Access Point - Debug/Components/mrfi/mrfi.pp
+#	new file:   PC/CCS/SEH Sensor Monitor/Access Point - Debug/Components/mrfi/subdir_rules.mk
+#	new file:   PC/CCS/SEH Sensor Monitor/Access Point - Debug/Components/mrfi/subdir_vars.mk
+#	new file:   PC/CCS/SEH Sensor Monitor/Access Point - Debug/Components/simpliciti/network_applications/nwk_freq.pp
+#	new file:   PC/CCS/SEH Sensor Monitor/Access Point - Debug/Components/simpliciti/network_applications/nwk_ioctl.pp
+#	new file:   PC/CCS/SEH Sensor Monitor/Access Point - Debug/Components/simpliciti/network_applications/nwk_join.pp
+#	new file:   PC/CCS/SEH Sensor Monitor/Access Point - Debug/Components/simpliciti/network_applications/nwk_link.pp
+#	new file:   PC/CCS/SEH Sensor Monitor/Access Point - Debug/Components/simpliciti/network_applications/nwk_mgmt.pp
+#	new file:   PC/CCS/SEH Sensor Monitor/Access Point - Debug/Components/simpliciti/network_applications/nwk_ping.pp
+#	new file:   PC/CCS/SEH Sensor Monitor/Access Point - Debug/Components/simpliciti/network_applications/nwk_security.pp
+#	new file:   PC/CCS/SEH Sensor Monitor/Access Point - Debug/Components/simpliciti/network_applications/subdir_rules.mk
+#	new file:   PC/CCS/SEH Sensor Monitor/Access Point - Debug/Components/simpliciti/network_applications/subdir_vars.mk
+#	new file:   PC/CCS/SEH Sensor Monitor/Access Point - Debug/Components/simpliciti/nwk/nwk.pp
+#	new file:   PC/CCS/SEH Sensor Monitor/Access Point - Debug/Components/simpliciti/nwk/nwk_QMgmt.pp
+#	new file:   PC/CCS/SEH Sensor Monitor/Access Point - Debug/Components/simpliciti/nwk/nwk_api.pp
+#	new file:   PC/CCS/SEH Sensor Monitor/Access Point - Debug/Components/simpliciti/nwk/nwk_frame.pp
+#	new file:   PC/CCS/SEH Sensor Monitor/Access Point - Debug/Components/simpliciti/nwk/nwk_globals.pp
+#	new file:   PC/CCS/SEH Sensor Monitor/Access Point - Debug/Components/simpliciti/nwk/subdir_rules.mk
+#	new file:   PC/CCS/SEH Sensor Monitor/Access Point - Debug/Components/simpliciti/nwk/subdir_vars.mk
+#	new file:   PC/CCS/SEH Sensor Monitor/Access Point - Debug/Peer Applications/SEH_AP_v1.5.pp
+#	new file:   PC/CCS/SEH Sensor Monitor/Access Point - Debug/Peer Applications/subdir_rules.mk
+#	new file:   PC/CCS/SEH Sensor Monitor/Access Point - Debug/Peer Applications/subdir_vars.mk
+#	new file:   PC/CCS/SEH Sensor Monitor/Access Point - Debug/ccsObjs.opt
+#	new file:   PC/CCS/SEH Sensor Monitor/Access Point - Debug/makefile
+#	new file:   PC/CCS/SEH Sensor Monitor/Access Point - Debug/objects.mk
+#	new file:   PC/CCS/SEH Sensor Monitor/Access Point - Debug/sources.mk
+#	new file:   PC/CCS/SEH Sensor Monitor/Access Point - Debug/subdir_rules.mk
+#	new file:   PC/CCS/SEH Sensor Monitor/Access Point - Debug/subdir_vars.mk
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/bsp/boards/EZ430RF/bsp_board.c
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/bsp/boards/EZ430RF/bsp_board_defs.h
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/bsp/boards/EZ430RF/bsp_button_defs.h
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/bsp/boards/EZ430RF/bsp_config.h
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/bsp/boards/EZ430RF/bsp_driver_defs.h
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/bsp/boards/EZ430RF/bsp_drivers.c
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/bsp/boards/EZ430RF/bsp_external/mrfi_board.c
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/bsp/boards/EZ430RF/bsp_external/mrfi_board_defs.h
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/bsp/boards/EZ430RF/bsp_led_defs.h
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/bsp/bsp.c
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/bsp/bsp.h
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/bsp/bsp_macros.h
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/bsp/drivers/bsp_buttons.h
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/bsp/drivers/bsp_leds.h
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/bsp/drivers/code/bsp_buttons.c
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/bsp/drivers/code/bsp_generic_buttons.h
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/bsp/drivers/code/bsp_generic_leds.h
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/bsp/drivers/code/bsp_leds.c
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/bsp/mcus/bsp_8051_defs.h
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/bsp/mcus/bsp_msp430_defs.h
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/mrfi/mrfi.c
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/mrfi/mrfi.h
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/mrfi/mrfi_defs.h
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/mrfi/radios/common/mrfi_f1f2.c
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/mrfi/radios/common/mrfi_f1f2.h
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/mrfi/radios/family1/mrfi_radio.c
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/mrfi/radios/family1/mrfi_spi.c
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/mrfi/radios/family1/mrfi_spi.h
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/mrfi/radios/family2/mrfi_radio.c
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/mrfi/radios/family3/mrfi_radio.c
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/mrfi/radios/family3/mrfi_spi.c
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/mrfi/radios/family3/mrfi_spi.h
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/mrfi/radios/family4/mrfi_radio.c
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/mrfi/smartrf/CC1100/rfstudio.srfs1100
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/mrfi/smartrf/CC1100/smartrf_CC1100.h
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/mrfi/smartrf/CC1101/rfstudio.srfs1101
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/mrfi/smartrf/CC1101/smartrf_CC1101.h
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/mrfi/smartrf/CC1110/rfstudio.srfs1110
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/mrfi/smartrf/CC1110/smartrf_CC1110.h
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/mrfi/smartrf/CC1110/smartrf_CC1110.prs
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/mrfi/smartrf/CC1111/rfstudio.srfs1111
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/mrfi/smartrf/CC1111/smartrf_CC1111.h
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/mrfi/smartrf/CC2500/rfstudio.srfs2500
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/mrfi/smartrf/CC2500/smartrf_CC2500.h
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/mrfi/smartrf/CC2510/rfstudio.srfs2510
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/mrfi/smartrf/CC2510/smartrf_CC2510.h
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/mrfi/smartrf/CC2510/smartrf_CC2510.prs
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/mrfi/smartrf/CC2511/rfstudio.srfs2511
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/mrfi/smartrf/CC2511/smartrf_CC2511.h
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/simpliciti/network_applications/nwk_freq.c
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/simpliciti/network_applications/nwk_freq.h
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/simpliciti/network_applications/nwk_ioctl.c
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/simpliciti/network_applications/nwk_ioctl.h
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/simpliciti/network_applications/nwk_join.c
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/simpliciti/network_applications/nwk_join.h
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/simpliciti/network_applications/nwk_link.c
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/simpliciti/network_applications/nwk_link.h
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/simpliciti/network_applications/nwk_mgmt.c
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/simpliciti/network_applications/nwk_mgmt.h
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/simpliciti/network_applications/nwk_ping.c
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/simpliciti/network_applications/nwk_ping.h
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/simpliciti/network_applications/nwk_security.c
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/simpliciti/network_applications/nwk_security.h
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/simpliciti/nwk/nwk.c
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/simpliciti/nwk/nwk.h
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/simpliciti/nwk/nwk_QMgmt.c
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/simpliciti/nwk/nwk_QMgmt.h
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/simpliciti/nwk/nwk_api.c
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/simpliciti/nwk/nwk_api.h
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/simpliciti/nwk/nwk_app.h
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/simpliciti/nwk/nwk_frame.c
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/simpliciti/nwk/nwk_frame.h
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/simpliciti/nwk/nwk_globals.c
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/simpliciti/nwk/nwk_globals.h
+#	new file:   PC/CCS/SEH Sensor Monitor/Components/simpliciti/nwk/nwk_types.h
+#	new file:   PC/CCS/SEH Sensor Monitor/End Device - Debug/APasdatahub_linkInfo.xml
+#	new file:   PC/CCS/SEH Sensor Monitor/End Device - Debug/Components/bsp/bsp.pp
+#	new file:   PC/CCS/SEH Sensor Monitor/End Device - Debug/Components/bsp/subdir_rules.mk
+#	new file:   PC/CCS/SEH Sensor Monitor/End Device - Debug/Components/bsp/subdir_vars.mk
+#	new file:   PC/CCS/SEH Sensor Monitor/End Device - Debug/Components/mrfi/mrfi.pp
+#	new file:   PC/CCS/SEH Sensor Monitor/End Device - Debug/Components/mrfi/subdir_rules.mk
+#	new file:   PC/CCS/SEH Sensor Monitor/End Device - Debug/Components/mrfi/subdir_vars.mk
+#	new file:   PC/CCS/SEH Sensor Monitor/End Device - Debug/Components/simpliciti/network_applications/nwk_freq.pp
+#	new file:   PC/CCS/SEH Sensor Monitor/End Device - Debug/Components/simpliciti/network_applications/nwk_ioctl.pp
+#	new file:   PC/CCS/SEH Sensor Monitor/End Device - Debug/Components/simpliciti/network_applications/nwk_join.pp
+#	new file:   PC/CCS/SEH Sensor Monitor/End Device - Debug/Components/simpliciti/network_applications/nwk_link.pp
+#	new file:   PC/CCS/SEH Sensor Monitor/End Device - Debug/Components/simpliciti/network_applications/nwk_mgmt.pp
+#	new file:   PC/CCS/SEH Sensor Monitor/End Device - Debug/Components/simpliciti/network_applications/nwk_ping.pp
+#	new file:   PC/CCS/SEH Sensor Monitor/End Device - Debug/Components/simpliciti/network_applications/nwk_security.pp
+#	new file:   PC/CCS/SEH Sensor Monitor/End Device - Debug/Components/simpliciti/network_applications/subdir_rules.mk
+#	new file:   PC/CCS/SEH Sensor Monitor/End Device - Debug/Components/simpliciti/network_applications/subdir_vars.mk
+#	new file:   PC/CCS/SEH Sensor Monitor/End Device - Debug/Components/simpliciti/nwk/nwk.pp
+#	new file:   PC/CCS/SEH Sensor Monitor/End Device - Debug/Components/simpliciti/nwk/nwk_QMgmt.pp
+#	new file:   PC/CCS/SEH Sensor Monitor/End Device - Debug/Components/simpliciti/nwk/nwk_api.pp
+#	new file:   PC/CCS/SEH Sensor Monitor/End Device - Debug/Components/simpliciti/nwk/nwk_frame.pp
+#	new file:   PC/CCS/SEH Sensor Monitor/End Device - Debug/Components/simpliciti/nwk/nwk_globals.pp
+#	new file:   PC/CCS/SEH Sensor Monitor/End Device - Debug/Components/simpliciti/nwk/subdir_rules.mk
+#	new file:   PC/CCS/SEH Sensor Monitor/End Device - Debug/Components/simpliciti/nwk/subdir_vars.mk
+#	new file:   PC/CCS/SEH Sensor Monitor/End Device - Debug/Peer Applications/SEH_ED_v1.5.pp
+#	new file:   PC/CCS/SEH Sensor Monitor/End Device - Debug/Peer Applications/subdir_rules.mk
+#	new file:   PC/CCS/SEH Sensor Monitor/End Device - Debug/Peer Applications/subdir_vars.mk
+#	new file:   PC/CCS/SEH Sensor Monitor/End Device - Debug/ccsObjs.opt
+#	new file:   PC/CCS/SEH Sensor Monitor/End Device - Debug/makefile
+#	new file:   PC/CCS/SEH Sensor Monitor/End Device - Debug/objects.mk
+#	new file:   PC/CCS/SEH Sensor Monitor/End Device - Debug/sources.mk
+#	new file:   PC/CCS/SEH Sensor Monitor/End Device - Debug/subdir_rules.mk
+#	new file:   PC/CCS/SEH Sensor Monitor/End Device - Debug/subdir_vars.mk
+#	new file:   PC/CCS/SEH Sensor Monitor/Peer Applications/Configuration/Access Point/smpl_config.dat
+#	new file:   PC/CCS/SEH Sensor Monitor/Peer Applications/Configuration/End Device/smpl_config.dat
+#	new file:   PC/CCS/SEH Sensor Monitor/Peer Applications/Configuration/smpl_nwk_config.dat
+#	new file:   PC/CCS/SEH Sensor Monitor/Peer Applications/SEH_AP_v1.5.c
+#	new file:   PC/CCS/SEH Sensor Monitor/Peer Applications/SEH_ED_v1.5.c
+#	new file:   PC/CCS/SEH Sensor Monitor/Peer Applications/vlo_rand.asm
+#	new file:   PC/CCS/SEH Sensor Monitor/Peer Applications/vlo_rand.h
+#	new file:   PC/CCS/SEH Sensor Monitor/lnk_msp430f2274.cmd
+#	new file:   PC/CCS/SEH Sensor Monitor/targetConfigs/MSP430F2274.ccxml
+#	new file:   PC/CCS/SEH Sensor Monitor/targetConfigs/readme.txt
+#
+
