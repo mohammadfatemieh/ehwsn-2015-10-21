@@ -1,0 +1,19 @@
+Ez430-RF2500	MSP430	Sensor board	Role
+1	GND	Ground
+2	Vcc	Power
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18

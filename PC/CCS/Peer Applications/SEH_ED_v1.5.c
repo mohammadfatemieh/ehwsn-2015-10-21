@@ -126,7 +126,7 @@ unsigned char msg_status = 0;
 #define RH_LOWER 		3500
 
 // P - unit of 0.01 mbar
-#define P_DIFF_MAX		15
+#define P_DIFF_MAX		25
 // Acc - units of mg
 #define ACC_DIFF_MAX	50
 
