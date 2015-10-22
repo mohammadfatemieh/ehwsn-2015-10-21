@@ -116,7 +116,7 @@ unsigned char msg_status = 0;
 #define BAT_MIN_VOTAGE		2500	// minimum voltage for AA battery pack
 
 // T - units of 0.01 C
-#define T_DIFF_MAX		10
+#define T_DIFF_MAX		15
 #define T_UPPER			3000
 #define T_LOWER			2000
 
@@ -126,7 +126,7 @@ unsigned char msg_status = 0;
 #define RH_LOWER 		3500
 
 // P - unit of 0.01 mbar
-#define P_DIFF_MAX		10
+#define P_DIFF_MAX		15
 // Acc - units of mg
 #define ACC_DIFF_MAX	50
 

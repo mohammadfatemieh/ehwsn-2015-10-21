@@ -1,0 +1,18 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   ABOUT.txt
+#	modified:   PC/CCS/Peer Applications/SEH_ED_v1.5.c
+#	new file:   server/sensor_node_plot-1.html
+#	new file:   server/sensor_node_plot-2.html
+#
+# Changes not staged for commit:
+#	modified:   ABOUT.txt
+#
+
+Changed T_DIFF and P_DIFF to 15
+

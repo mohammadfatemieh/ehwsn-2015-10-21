@@ -1,0 +1,18 @@
+Sparkfun server details
+EHWSN display 1.1.0 - Node 1
+Public Key: 2Jx7myNzj6uD37jNYA1M
+Private Key: GPyXGl6Ne2idvZlGK12R
+Delete Key: NvjeMnX9x1H3xqagpzjL
+
+Stream URL:
+https://data.sparkfun.com/streams/2Jx7myNzj6uD37jNYA1M
+
+EHWSN display 1.1.0 Node 2
+Public Key: 8dxAKN9l8JUKJlZrpQg6
+Private Key: pzrWZbnDg7cMe24jXk10
+Delete Key: y3YBo8xZAMhjknRNdKzY
+
+Stream URL:
+https://data.sparkfun.com/streams/8dxAKN9l8JUKJlZrpQg6
+
+
