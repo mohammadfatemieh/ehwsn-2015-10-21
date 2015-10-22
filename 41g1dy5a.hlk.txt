@@ -1,0 +1,88 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   datasheets/Analog Devices - 2013 - ADXL362 3-Axis Accelerometer datasheet.pdf
+#	new file:   "datasheets/Cymbet - 2009 - EnerChip \342\204\242 EH CBC5300.pdf"
+#	new file:   datasheets/ST MICRO - 2014 - LPS25H MEMS pressure sensor datasheet.pdf
+#	new file:   datasheets/Sanyo - 2010 - AM-1815.pdf
+#	new file:   datasheets/Sensirion - 2011 - SHT21 Datasheet.pdf
+#	new file:   datasheets/TI - 2013 - eZ430-RF2500-SEH User's Guide.pdf
+#	new file:   datasheets/Texas Instruments - 2009 - SLAU227E eZ430-RF2500 Development Tool User's Guide.pdf
+#	new file:   datasheets/Texas Instruments, TI - 2010 - CC2500 datasheet.pdf
+#	new file:   hardware/pcb_designs/adxl362/ADXL362 BOB v01.brd
+#	new file:   hardware/pcb_designs/adxl362/ADXL362 BOB v01.sch
+#	new file:   hardware/pcb_designs/adxl362/adxl362_board.b#1
+#	new file:   hardware/pcb_designs/adxl362/adxl362_board.b#2
+#	new file:   hardware/pcb_designs/adxl362/adxl362_board.b#3
+#	new file:   hardware/pcb_designs/adxl362/adxl362_board.b#4
+#	new file:   hardware/pcb_designs/adxl362/adxl362_board.b#5
+#	new file:   hardware/pcb_designs/adxl362/adxl362_board.b#6
+#	new file:   hardware/pcb_designs/adxl362/adxl362_board.b#7
+#	new file:   hardware/pcb_designs/adxl362/adxl362_board.b#8
+#	new file:   hardware/pcb_designs/adxl362/adxl362_board.brd
+#	new file:   hardware/pcb_designs/adxl362/adxl362_board.pro
+#	new file:   hardware/pcb_designs/adxl362/adxl362_board.s#1
+#	new file:   hardware/pcb_designs/adxl362/adxl362_board.s#2
+#	new file:   hardware/pcb_designs/adxl362/adxl362_board.sch
+#	new file:   hardware/pcb_designs/lps25h/Imported lps25h_board.PrjPcb/History/lps25h_board.~(1).PcbDoc.Zip
+#	new file:   hardware/pcb_designs/lps25h/Imported lps25h_board.PrjPcb/History/lps25h_board.~(1).PrjPcb.Zip
+#	new file:   hardware/pcb_designs/lps25h/Imported lps25h_board.PrjPcb/History/lps25h_board.~(2).PcbDoc.Zip
+#	new file:   hardware/pcb_designs/lps25h/Imported lps25h_board.PrjPcb/History/lps25h_board.~(2).PrjPcb.Zip
+#	new file:   hardware/pcb_designs/lps25h/Imported lps25h_board.PrjPcb/History/lps25h_board.~(3).PcbDoc.Zip
+#	new file:   hardware/pcb_designs/lps25h/Imported lps25h_board.PrjPcb/__Previews/lps25h_board.PcbDocPreview
+#	new file:   hardware/pcb_designs/lps25h/Imported lps25h_board.PrjPcb/lps25h_board.PrjPcb
+#	new file:   hardware/pcb_designs/lps25h/lps25h.gvp
+#	new file:   hardware/pcb_designs/lps25h/lps25h_board.GBL
+#	new file:   hardware/pcb_designs/lps25h/lps25h_board.GBO
+#	new file:   hardware/pcb_designs/lps25h/lps25h_board.GBS
+#	new file:   hardware/pcb_designs/lps25h/lps25h_board.GML
+#	new file:   hardware/pcb_designs/lps25h/lps25h_board.GTL
+#	new file:   hardware/pcb_designs/lps25h/lps25h_board.GTO
+#	new file:   hardware/pcb_designs/lps25h/lps25h_board.GTP
+#	new file:   hardware/pcb_designs/lps25h/lps25h_board.GTS
+#	new file:   hardware/pcb_designs/lps25h/lps25h_board.b#1
+#	new file:   hardware/pcb_designs/lps25h/lps25h_board.b#2
+#	new file:   hardware/pcb_designs/lps25h/lps25h_board.b#3
+#	new file:   hardware/pcb_designs/lps25h/lps25h_board.b#4
+#	new file:   hardware/pcb_designs/lps25h/lps25h_board.b#5
+#	new file:   hardware/pcb_designs/lps25h/lps25h_board.b#6
+#	new file:   hardware/pcb_designs/lps25h/lps25h_board.b#7
+#	new file:   hardware/pcb_designs/lps25h/lps25h_board.b#8
+#	new file:   hardware/pcb_designs/lps25h/lps25h_board.b#9
+#	new file:   hardware/pcb_designs/lps25h/lps25h_board.brd
+#	new file:   hardware/pcb_designs/lps25h/lps25h_board.cmp
+#	new file:   hardware/pcb_designs/lps25h/lps25h_board.dri
+#	new file:   hardware/pcb_designs/lps25h/lps25h_board.gpi
+#	new file:   hardware/pcb_designs/lps25h/lps25h_board.plc
+#	new file:   hardware/pcb_designs/lps25h/lps25h_board.pro
+#	new file:   hardware/pcb_designs/lps25h/lps25h_board.s#1
+#	new file:   hardware/pcb_designs/lps25h/lps25h_board.sch
+#
+# Untracked files:
+#	hardware/pcb_designs/lps25h/lps25h_board.TXT
+#	hardware/pcb_designs/lps25h/lps25h_board.sol
+#	hardware/pcb_designs/lps25h/lps25h_board.stc
+#	hardware/pcb_designs/lps25h/lps25h_board.sts
+#	hardware/pcb_designs/lps25h/lps25h_board_00.job
+#	hardware/pcb_designs/lps25h/lps25h_board_01.job
+#	hardware/pcb_designs/lps25h/lps25h_board_02.job
+#	hardware/pcb_designs/lps25h/lps25h_board_03.job
+#	hardware/pcb_designs/lps25h/lps25h_board_bottom.png
+#	hardware/pcb_designs/lps25h/lps25h_board_gerber_bottom.svg
+#	hardware/pcb_designs/lps25h/lps25h_board_gerber_top.svg
+#	hardware/pcb_designs/lps25h/lps25h_board_small.b#1
+#	hardware/pcb_designs/lps25h/lps25h_board_small.b#2
+#	hardware/pcb_designs/lps25h/lps25h_board_small.brd
+#	hardware/pcb_designs/lps25h/lps25h_board_small.pro
+#	hardware/pcb_designs/lps25h/lps25h_board_small.sch
+#	hardware/pcb_designs/lps25h/lps25h_board_top.png
+#	hardware/pcb_designs/lps25h/lps25h_schematic.png
+#	hardware/pcb_designs/lps25h/lps_board.png
+#	hardware/pcb_designs/sensor_board/
+#	hardware/pcb_designs/sht21/
+#
+Hardware folder contains PCB designs.  Datasheets have been saved for all IC's and components used in design.
