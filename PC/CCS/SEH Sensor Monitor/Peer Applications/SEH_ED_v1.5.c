@@ -89,7 +89,7 @@ void check_bat_full(void);
 void createRandomAddress(void);
 
 #define MESSAGE_LENGTH		17	// must be less than or equal to MAX_APP_PAYLOAD	//5
-#define ID	0x01				// NODE ID - MUST BE SEPERATE FOR EVERY NODE USED
+#define NODE_ID	0x01				// NODE ID - MUST BE SEPERATE FOR EVERY NODE USED
 
 #define	YES	1
 #define	NO	0
@@ -180,7 +180,7 @@ void I2C_Write_Register(char Register, char Value);
 // ********** ********** SPI ********** **********//
 
 // constants
-#define nSS		BIT0		// P2.nSS used for /CS for ADXL362
+#define nSS		BIT7	//BIT0		// P2.nSS used for /CS for ADXL362
 
 // variables
 unsigned char SPI_TXData[10], SPI_RXData[10];	// TX and RX buffer limits
@@ -749,7 +749,8 @@ void linkTo(void)
 				}
 			}
 
-			if ( msg_status != 0 )
+//			if ( msg_status != 0 )
+			if ( ~(msg_status & STOP_FLAG) )
 				{
 
 		/* 		int i = 0;
@@ -759,7 +760,7 @@ void linkTo(void)
 				} */
 
 				i=0;
-				msg[i++] = ID;		// ID of node
+				msg[i++] = NODE_ID;		// ID of node
 				msg[i++] = (Vcc>>8)&0xFF;
 				msg[i++] = Vcc&0xFF;
 				msg[i++] = (Temperature>>8)&0xFF;
@@ -799,11 +800,11 @@ void linkTo(void)
 			msg_status = 0;
 				}	// end of status if loop
 
-		    for (i=0 ; i <10  ; i++)
-			{
-				   delay(sec30);                  // enter sleep mode between measurements
-			}
-		    // delay(sec1);                  // enter sleep mode between measurements
+//		    for (i=0 ; i <4  ; i++)
+//			{
+//				   delay(sec30);                  // enter sleep mode between measurements
+//			}
+		     delay(sec10);                  // enter sleep mode between measurements
 	}	// end of MEASURE if loop
 
 	  else

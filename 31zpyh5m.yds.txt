@@ -1,0 +1,18 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   .gitignore
+#	modified:   PC/CCS/.metadata/.plugins/com.ti.dvt.datamodel/SolutionMgr.xml
+#	modified:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.projects/SEH Sensor Monitor/.markers
+#	modified:   PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources
+#	modified:   PC/CCS/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.core.prefs
+#	modified:   PC/CCS/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi
+#
+# Changes not staged for commit:
+#	deleted:    PC/CCS/.metadata/.plugins/org.eclipse.core.resources/.root/2.tree
+#
+
